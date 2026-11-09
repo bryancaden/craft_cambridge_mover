@@ -1,0 +1,6 @@
+{
+  "name": "Cambridge Movers: Craft & Learn 3D",
+  "description": "An immersive Minecraft-inspired 3D voxel English learning game for Cambridge A1 Movers test preparation with dynamic question generation and 3D character world building.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
